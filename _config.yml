@@ -11,9 +11,9 @@ title                    : "Chen-Chien (Jacky) Kao"
 title_separator          : "-"
 name                     : &name "Chen-Chien (Jacky) Kao"
 description              : &description "personal description"
-url                      : https://see1000see1000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jacky1229.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "see1000see1000.github.io"
+repository               : "Jacky1229.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
