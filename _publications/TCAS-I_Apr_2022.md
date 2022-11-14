@@ -1,19 +1,16 @@
 ---
 title: "Hybrid Precoding Baseband Processor for 64x64 Millimeter Wave MIMO Systems"
 collection: publications
-permalink: /publication/TCAS-I_2022_4
+permalink: /publication/TCAS-I_Apr_2022
 date: Apr., 2022
 venue: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
-citation: C.-C. Kao, C.-E. Chen, C.-H. Yang, "Hybrid Precoding Baseband Processor for 64x64 Millimeter Wave MIMO systems," *IEEE Trans. Circuits \& Systems I (TCAS-I)*, vol. 69, no. 4, pp. 1765-1773, Apr. 2022.
 ---
 <p align="center">
 <img src='/images/publications/Hybrid_Precoding.jpg' width='600' > 
 </p><br>
 
-
 <br>
 **Abstract:** This paper presents a hybrid precoding processor for millimeter wave (mmWave) multiple-input-multiple-output (MIMO) communication systems. The proposed architecture supports 64 antennas with 4-to-8 RF chains, and 4-bit phase resolution for each phase shifter in the analog beamformer. The proposed hybrid precoding processor outperforms the state-of-the-art hybrid precoding processors with 5.5-13.7× higher normalized area efficiency and 6.9-38.4× lower normalized energy.
 
 [Paper Link](http://jacky1229.github.io/files/publication_papers/Hybrid_Precoding_Baseband_Processor_for_64__64_Millimeter_Wave_MIMO_Systems.pdf)
-
-
+Recommended citation:  C.-C. Kao, C.-E. Chen, C.-H. Yang, "Hybrid Precoding Baseband Processor for 64x64 Millimeter Wave MIMO systems," <i>IEEE Trans. Circuits & Systems I (TCAS-I)<i>, vol. 69, no. 4, pp. 1765-1773, Apr. 2022.
