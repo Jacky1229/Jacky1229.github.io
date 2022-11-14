@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Hybrid Precoding Baseband Processor for 64x64 Millimeter Wave MIMO Systems"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/TCAS-I_2022_4
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 2022-04
+venue: 'IEEE Transactions on Circuits and Systems I: Regular Papers ( Volume: 69, Issue: 4, April 2022)'
+paperurl: 'http://jacky1229.github.io/files/publication_papers/Hybrid_Precoding_Baseband_Processor_for_64__64_Millimeter_Wave_MIMO_Systems.pdf'
+<!---
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+-->
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
