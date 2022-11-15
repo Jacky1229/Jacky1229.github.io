@@ -3,7 +3,7 @@ title: "Hardware Acceleration in Large-Scale Tensor Decomposition for Neural Net
 collection: publications
 permalink: /publication/MWSCAS_Aug_2022
 date: Aug., 2022
-venue: 'IEEE 65th International Midwest Symposium on Circuits and Systems (MWSCAS)'
+venue: '2022 IEEE 65th International Midwest Symposium on Circuits and Systems (MWSCAS)'
 ---
 <p align="center">
 <img src='/images/publications/Tensor_Decomposition.jpg' width='600' > 

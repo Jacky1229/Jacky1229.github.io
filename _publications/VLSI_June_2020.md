@@ -3,9 +3,9 @@ title: "A 1.96 Gb/s Massive MU-MIMO Detector for Next-Generation Cellular System
 collection: publications
 permalink: /publication/VLSI_June_2020
 date: June, 2020
-venue: 'IEEE Symposium on VLSI Circuits'
----
+venue: '2020 IEEE Symposium on VLSI Circuits'
 
+---
 <br>
 [Paper Link](http://jacky1229.github.io/files/A_1.96_Gb_s_Massive_MU-MIMO_Detector_for_Next-Generation_Cellular_Systems.pdf)
 <br>
