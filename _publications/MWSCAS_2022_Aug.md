@@ -5,10 +5,10 @@ permalink: /publication/MWSCAS_Aug_2022
 date: Aug., 2022
 venue: '2022 IEEE 65th International Midwest Symposium on Circuits and Systems (MWSCAS)'
 ---
+<br>
 <p align="center">
 <img src='/images/publications/Tensor_Decomposition.jpg' width='600' > 
-</p><br>
-
+</p>
 <br>
 **Abstract:** A tensor is a multi-dimensional array, which is embedded for neural networks. The multiply-accumulate (MAC) operations involved in a large-scale tensor introduces high computational complexity. Since the tensor usually features a low rank, the computational complexity can be largely reduced through canonical polyadic decomposition (CPD). This work presents an energy-efficient hardware accelerator that implements randomized CPD in large-scale tensors for neural network compression. A mixing method that combines the Walsh-Hadamard transform and discrete cosine transform is proposed to replace the fast Fourier transform with faster convergence. It reduces the computations for transformation by 83%. 75% of computations for solving the required least squares problem are also reduced. The proposed accelerator is flexible to support tensor decomposition with a size of up to 512×512×9×9. Compared to the prior dedicated processor for tensor computation, this work support larger tensors and achieves a 112× lower latency given the same condition.
 

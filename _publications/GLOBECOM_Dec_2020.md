@@ -4,9 +4,7 @@ collection: publications
 permalink: /publication/GLOBECOM_Dec_2020
 date: Dec., 2020
 venue: 'GLOBECOM 2020 - 2020 IEEE Global Communications Conference'
-
 ---
-
 <br>
 [Paper Link](http://jacky1229.github.io/files/Iterative_Receiver_with_a_Lattice-Reduction-Aided_MIMO_Detector_for_IEEE_802.11ax.pdf)
 <br>
