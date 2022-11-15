@@ -4,7 +4,9 @@ collection: publications
 permalink: /publication/ASP-DAC_J_2020
 date: Jan., 2020
 venue: '2020 25th Asia and South Pacific Design Automation Conference (ASP-DAC)'
+
 ---
+
 <br>
 <br>
 [Paper Link](http://jacky1229.github.io/files/Equivalent_Capacitance_Guided_Dummy_Fill_Insertion_for_Timing_and_Manufacturability.pdf)
