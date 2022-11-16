@@ -6,6 +6,12 @@ venue: Digital Circuits and Systems Laboratory, National Taiwan University"
 date: 2019-02-01
 ---
 
+<p align="center">
+<img src='/images/publications/Hybrid_Precoding.jpg' width='600'> 
+</p><br>
+
+<br>
+
 In mmWave MIMO where the number of antennas to be deployed is often massive, full baseband processing can be very expensive.
 A more practical way to implement the precoding in mmWave MIMO is through hybrid precoding.
 The hybrid precoder consists of a two-stage concatenated structure, where an analog precoder is performed at the RF front-end using phase-shifters while a dimension-reduced digital precoder is performed at baseband. 
