@@ -3,6 +3,8 @@ title: "Hybrid Precoding Processor for mmWave Massive MIMO System"
 collection: Research
 permalink: /research/hybrid_precoding
 venue: "Digital Circuits and Systems Laboratory, National Taiwan University"
+date: 2019-02-01
+location: "City, Country"
 ---
 
 <p align="center">
@@ -20,4 +22,4 @@ We proposed a polar decomposition based algoritm the replace orignal SVD operati
 The proposed hybrid precoding processor is able to support 6more antennas with a higher flexibility in the number of data streams and RF chains.
 It can achieve better area and energy efficiency than previous works.
 
-This work was published in <b><i> IEEE Transactions on Circuits and Systems I: Regular Papers </i></b
+This work was published in <b><i> IEEE Transactions on Circuits and Systems I: Regular Papers </i></b>
