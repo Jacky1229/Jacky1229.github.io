@@ -2,7 +2,7 @@
 title: "Hybrid Precoding Processor for mmWave Massive MIMO System"
 collection: Research
 permalink: /research/hybrid_precoding
-venue: Digital Circuits and Systems Laboratory, National Taiwan University"
+venue: "Digital Circuits and Systems Laboratory, National Taiwan University"
 date: 2019-02-01
 ---
 
