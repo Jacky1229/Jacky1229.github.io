@@ -5,6 +5,7 @@ permalink: /research/CPD
 venue: Digital Circuits and Systems Laboratory, National Taiwan University"
 date: 2017-09-01
 ---
+
 <p align="center">
 <img src='/images/publications/Tensor_Decomposition.jpg' width='600' > 
 </p><br>
