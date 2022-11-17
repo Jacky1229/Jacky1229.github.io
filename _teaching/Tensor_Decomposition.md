@@ -1,6 +1,7 @@
 ---
 title: "CP Decomposition Accelerator"
 collection: Research
+type: "Digital VLSI design"
 permalink: /research/CPD
 venue: "Digital Circuits and Systems Laboratory, National Taiwan University"
 date: 2017-09-01
