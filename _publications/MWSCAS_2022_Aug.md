@@ -1,7 +1,7 @@
 ---
 title: "Hardware Acceleration in Large-Scale Tensor Decomposition for Neural Network Compression"
 collection: publications
-permalink: /publication/MWSCAS_Aug_2022
+permalink: /publications/MWSCAS_Aug_2022
 date: Aug., 2022
 venue: '2022 IEEE 65th International Midwest Symposium on Circuits and Systems (MWSCAS)'
 ---

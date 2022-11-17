@@ -1,7 +1,7 @@
 ---
 title: "Equivalent Capacitance Guided Dummy Fill Insertion for Timing and Manufacturability"
 collection: publications
-permalink: /publication/ASP-DAC_Jan_2020
+permalink: /publications/ASP-DAC_Jan_2020
 date: Jan., 2020
 venue: '2020 25th Asia and South Pacific Design Automation Conference (ASP-DAC)'
 ---

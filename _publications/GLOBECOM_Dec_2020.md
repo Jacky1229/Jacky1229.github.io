@@ -1,7 +1,7 @@
 ---
 title: "Iterative Receiver with a Lattice-Reduction-Aided MIMO Detector for IEEE 802.11ax"
 collection: publications
-permalink: /publication/GLOBECOM_Dec_2020
+permalink: /publications/GLOBECOM_Dec_2020
 date: Dec., 2020
 venue: 'GLOBECOM 2020 - 2020 IEEE Global Communications Conference'
 ---

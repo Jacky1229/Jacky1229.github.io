@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Precoding Baseband Processor for 64x64 Millimeter Wave MIMO Systems"
 collection: publications
-permalink: /publication/TCAS-I_Apr_2022
+permalink: /publications/TCAS-I_Apr_2022
 date: Apr., 2022
 venue: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
 ---
