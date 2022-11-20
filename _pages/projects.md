@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "selected projects"
+title: "Selected Projects"
 permalink: /projects/
 author_profile: true
 ---
@@ -8,17 +8,17 @@ author_profile: true
 ## News Retrieval
 * To distinguish the stand of the controversial news by using BM25 and Pseudo Relevance Feedback (PRF)
 * Won **Second Prize** in 2019 Artificial Intelligence Cup, Taiwan
-<img src='/images/projects/News_Retrieval.jpg' width='600' >
+<img src='/images/projects/News_Retrieval.png' width='600' >
 
 ## Timing-Aware Fill Insertion
 * Insert dummy fills based on proposed equivalent capacitance analysis to reduce potential timing degradation
 * Won **Excellence Award** in CAD Contest, Taiwan
 * Published in *ASP-DAC '20*
-<img src='/images/projects/Dummy_Fill.jpg' width='600' >
+<img src='/images/projects/Dummy_Fill.png' width='600' >
 
 ## Pipelined MIPS design
 * Final project of *Digital System Design* course <br/>
-<img src='/images/projects/DSD_project.jpg' width='600' > <br/>
+<img src='/images/projects/DSD_project.png' width='600' > <br/>
 
 {% if site.talkmap_link == true %}
 

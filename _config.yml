@@ -181,13 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  post:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -236,12 +232,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _post
   - scope:
       path: ""
-      type: talks
+      type: post
     values:
-      layout: talk
+      layout: post
       author_profile: true
       share: true
 
