@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Chen-Chien (Jacky) Kao"
-  avatar           : "pstar.jpg"
+  avatar           : "MyPhoto.jpg"
   bio              : "M.S. in NTU GIEE (2019-2022) <br> B.S. in NTU EE (2015-2019)"
   location         : "Taiwan"
   employer         :
@@ -181,23 +181,23 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  post:
-    output: true
-    permalink: /:collection/:path/
+  # post:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+  #    path: ""
+  #    type: posts
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    read_time: true
+  #    comments: true
+  #    share: true
+  #    related: true
   # _pages
   - scope:
       path: ""
@@ -232,14 +232,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _post
-  - scope:
-      path: ""
-      type: post
-    values:
-      layout: post
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
