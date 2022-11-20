@@ -7,7 +7,8 @@ author_profile: true
   
 ## News Retrieval
 * To distinguish the stand of the controversial news (written in Chinese) by using BM25 and Pseudo Relevance Feedback (PRF)
-* Won **Second Prize** in 2019 Artificial Intelligence Cup, Taiwan
+* Won **Second Prize** in 2019 Artificial Intelligence Cup, Taiwan<br/>
+<img src='/images/projects/News_Retrieval.png' width='300' >
 
 ## Timing-Aware Fill Insertion
 * Insert dummy fills based on proposed equivalent capacitance analysis to reduce potential timing degradation
