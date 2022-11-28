@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF Link](http://jacky1229.github.io/files/CV/CV.pdf)
+
 Research Interests
 =====
 Energy-efficient hardware accelerator for digital signal processing, machine learning, and baseband communication
@@ -20,7 +22,7 @@ Education
     * Advisor: Prof. Chia-Hsiang Yang
     * Cumulative GPA: 4.19/4.30
 * B.S. in Electrical Engineering, National Taiwan University (NTU), 09/2015 - 01/2019
-    * Cumulative GPA: 4.19/4.30   (Rank: **9th**}/190)
+    * Cumulative GPA: 4.19/4.30   (Rank: **9th**/190)
 
 Honors & Awards
 =====
