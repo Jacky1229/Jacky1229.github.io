@@ -1,5 +1,5 @@
 ---
-title: "CP Decomposition Accelerator"
+title: "Tensor Decomposition Accelerator"
 collection: Research
 type: "Digital VLSI design"
 permalink: /research/CPD
