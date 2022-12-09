@@ -28,7 +28,7 @@ Honors & Awards
 =====
 * **IEEE CASS Student Travel Grant**, July 2022 
 * **Dialog Award** (Given to excellent students for outstanding research), 2020, 2022 
-* **Honorable Mention**, Macronix Golden Silicon Contest (300+ teams), June 2020 
+* **Honorable Mention**, Macronix Golden Silicon Awards (300+ teams), June 2020 
 * **Second Place**, 2019 Artificial Intelligence Cup, Ministry of Education, Taiwan (70+ teams), Apr. 2020 
 * **Presidential Award, 2 times**, National Taiwan University (Ranked top 5\% in academy), 2015-2019 
 * **College Student Research Creativity Award**, Ministry of Science and Technology, Taiwan (Ranked top 10 \% in 2000 projects), 2019
